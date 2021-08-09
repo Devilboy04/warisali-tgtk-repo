@@ -21,7 +21,7 @@ no = "✖"
 yes = "✔"
 # Central object is not used its Acknowledged 
 tordb = tkdb()
-header =  '<b>tgtk - a telegram leech bot.</b>\n<u>administrator menu</u>'
+header =  '<b>ToolKit By WarisAli😈.</b>\n<u>administrator menu</u>'
 async def handle_setting_callback(e):
     db = tordb
     session_id,_ = db.get_variable("SETTING_AUTH_CODE")
